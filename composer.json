@@ -1,0 +1,19 @@
+{
+    "name": "comingdemon/admin-asset",
+    "type": "library",
+    "description": "Universal PHP admin quick development library for asset file",
+    "homepage": "http://www.m-create.cn",
+    "keywords": [
+        "comingdemon",
+        "admin"
+    ],
+    "authors": [
+        {
+            "name": "ComingDemon"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
